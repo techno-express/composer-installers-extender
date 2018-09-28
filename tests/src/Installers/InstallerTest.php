@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace OomphInc\ComposerInstallersExtender\Installers;
+namespace Universal\ComposerInstallersExtender\Installers;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;

@@ -2,14 +2,14 @@
 
 declare(strict_types = 1);
 
-namespace OomphInc\ComposerInstallersExtender\Tests;
+namespace Universal\ComposerInstallersExtender\Tests;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
 use PHPUnit\Framework\TestCase;
 use Composer\Installer\InstallationManager;
-use OomphInc\ComposerInstallersExtender\Installers\Installer;
-use OomphInc\ComposerInstallersExtender\Plugin;
+use Universal\ComposerInstallersExtender\Installers\Installer;
+use Universal\ComposerInstallersExtender\Plugin;
 
 class PluginTest extends TestCase
 {

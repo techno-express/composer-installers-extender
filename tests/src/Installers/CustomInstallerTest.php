@@ -2,10 +2,10 @@
 
 declare(strict_types = 1);
 
-namespace OomphInc\ComposerInstallersExtender\Tests\Installers;
+namespace Universal\ComposerInstallersExtender\Tests\Installers;
 
 use PHPUnit\Framework\TestCase;
-use OomphInc\ComposerInstallersExtender\Installers\CustomInstaller;
+use Universal\ComposerInstallersExtender\Installers\CustomInstaller;
 
 class CustomInstallerTest extends TestCase
 {
