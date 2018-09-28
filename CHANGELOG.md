@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog][] and this project adheres to the
 [Keep a Changelog]: http://keepachangelog.com
 [Semantic Versioning]: https://semver.org
 
+## [1.1.3] - Current
+### Changed
+- Changed requirement for PHP 7.1 to PHP 5.6
+- Removed methods return type hint
+- Changed namespace
+
 ## [Unreleased]
 ### Added
 - Add `.editorconfig`, `.gitignore`, `.lando.yml`, `phpcs.xml` and `phpunit.xml`
